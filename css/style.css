@@ -4,18 +4,15 @@
 /* my styles */
 body { 
 
-  font-family: 'Britney-Regular';
+
+  font-family: 'Britney-Light';
 
   display: grid;
   justify-content: center;
   align-content: center;
   height: 100vh; 
 
-  /* 
-  
-  align-content: center;
-  */
-  width: 50%;
+  background: #FCD6D5;
 
 }
 
