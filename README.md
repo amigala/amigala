@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Sources
+[Britney from Font Share](https://www.fontshare.com/fonts/britney)
+[DIY page from Figma](https://www.figma.com/file/a55FO3JOrkGDMwMjx1fgDr/DIY-Landing-Page?node-id=1%3A5&t=01SsJPkI2h20hOT2-1)
