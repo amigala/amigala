@@ -4,15 +4,20 @@
 /* My styles */
 body { 
 
-
+  background: #FFF1E6;
   font-family: 'Britney-Light';
 
-  display: grid;
-  justify-content: center;
-  align-content: center;
-  height: 100vh;  
+}
 
-  background: #FCD6D5;
+/* 0,0,0,2*/
+body h1 {
+  font-family: 'Britney-Regular';
+  margin: 5px;
+}
+
+article{
+
+  background: #FDE2E4;
 
 }
 
@@ -20,11 +25,21 @@ h1,
 p {color: #000;
 }
 
-img {
-  width: 45%
+p {
+  color: #363535;
 }
 
-/* 0,0,0,2*/
-body h1 {
-  font-family: 'Britney-Light';
+nav{
+
+  display:flex;
+  justify-content: center;
+  
+}
+
+img {
+  display:grid;
+  align-content: center;
+  justify-content: center;
+  width: 85%;
+  height: 81%;
 }
