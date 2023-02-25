@@ -40,6 +40,7 @@ img {
   display:grid;
   align-content: center;
   justify-content: center;
+  border-radius: 15px;
   width: 85%;
-  height: 81%;
+  height: 93%;
 }
