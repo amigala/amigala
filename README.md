@@ -1,5 +1,7 @@
 # Amanda Migala
 
+![ItsMe] (file:///Users/amigala1/Desktop/52419666914_39f0d3e5e5_c.jpg)
+
 > Have Courage, and be Kind.
 
 ## My Links
