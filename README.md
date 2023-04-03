@@ -1,6 +1,6 @@
 # Amanda Migala
 
-<blockquote>Have Courage, and be Kind.</blockquote>
+> Have Courage, and be Kind.
 
 ## 
 
