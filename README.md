@@ -1,4 +1,8 @@
-### Hi there 👋
+# Amanda Migala
+
+<blockquote>Have Courage, and be Kind.</blockquote>
+
+## 
 
 <!--
 **amigala/amigala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
