@@ -15,7 +15,6 @@ I tend have an open minded when I try new things. I love trying to be outside es
 * [Flicker](https://www.flickr.com/photos/196552804@N02/albums)
 
 ### Possible Ideas 
-![Stitch](https://giphy.com/embed/11TyfGbDbBv4be)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amigala)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
