@@ -35,5 +35,4 @@ Here are some ideas to get you started:
 #Sources
 [Britney from Font Share](https://www.fontshare.com/fonts/britney)
 [DIY page from Figma](https://www.figma.com/file/a55FO3JOrkGDMwMjx1fgDr/DIY-Landing-Page?node-id=1%3A5&t=01SsJPkI2h20hOT2-1)
-[GIPHY](https://giphy.com/gifs/stitch-rockin-11TyfGbDbBv4be)
 [GitHub Stats Card](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
