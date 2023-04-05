@@ -3,10 +3,20 @@
 
 > Have Courage, and be Kind.
 
+Hi my name is Amanda Migala and I am a VCD design major, and I am also gaining my certification for User Experience at Eastern Washington University. I grew up being more on the creative side rather then the logical side 
+and loved to come with things that I imagined though drawing, photography, and story telling. When I graduated high school, I remember my drama teacher mentioning to me how 
+I was a quiet genius who embraced so much creativity during my years in school and hoped I would continue that during college. From then on, 
+I decided to persure design as my major not just because of the creative part of it but also to gain skills in problem solving that could impact others I work with. 
+I tend have an open minded when I try new things. I love trying to be outside especially in the summer and go biking, hiking, or swimming.
+
 ## My Links
 * [GitHub ](https://github.com/amigala)
 * <a href="https://codepen.io/your-work">CodePen</a>
 * [Flicker](https://www.flickr.com/photos/196552804@N02/albums)
+
+### Possible Ideas 
+<iframe src="https://giphy.com/embed/11TyfGbDbBv4be" width="480" height="283" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stitch-rockin-11TyfGbDbBv4be">via GIPHY</a></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amigala)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **amigala/amigala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +36,4 @@ Here are some ideas to get you started:
 #Sources
 [Britney from Font Share](https://www.fontshare.com/fonts/britney)
 [DIY page from Figma](https://www.figma.com/file/a55FO3JOrkGDMwMjx1fgDr/DIY-Landing-Page?node-id=1%3A5&t=01SsJPkI2h20hOT2-1)
+[GIPHY](https://giphy.com/gifs/stitch-rockin-11TyfGbDbBv4be)
