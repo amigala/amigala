@@ -13,6 +13,7 @@ I tend have an open minded when I try new things. I love trying to be outside es
 * [GitHub ](https://github.com/amigala)
 * <a href="https://codepen.io/your-work">CodePen</a>
 * [UX Porfolio](https://www.figma.com/proto/dZIUs3ChbAmvxzC6tPOw7h/Amanda-Migala%3A-UX-Portfolio?type=design&node-id=2-69&t=NwXt9FVf67vjkz4p-1&scaling=contain&page-id=1%3A2&mode=design)
+* [LinkedIn](www.linkedin.com/in/amigala)
 
 ### Possible Ideas 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amigala)](https://github.com/anuraghazra/github-readme-stats)
