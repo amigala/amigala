@@ -3,15 +3,14 @@
 
 > Have Courage, and be Kind.
 
-Hi my name is Amanda Migala and I am a VCD design major, and I am also gaining my certification for User Experience at Eastern Washington University. I grew up being more on the creative side rather then the logical side 
+Hi my name is Amanda Migala and I am a Visual Communication Designer, and I am certified in User Experience and Web Development. I grew up being more on the creative side rather then the logical side 
 and loved to come with things that I imagined though drawing, photography, and story telling. When I graduated high school, I remember my drama teacher mentioning to me how 
 I was a quiet genius who embraced so much creativity during my years in school and hoped I would continue that during college. From then on, 
 I decided to persure design as my major not just because of the creative part of it but also to gain skills in problem solving that could impact others I work with. 
 I tend have an open minded when I try new things. I love trying to be outside especially in the summer and go biking, hiking, or swimming.
 
 ## My Links
-* [GitHub ](https://github.com/amigala)
-* <a href="https://codepen.io/your-work">CodePen</a>
+* [GitHub](https://github.com/amigala)
 * [UX Porfolio](https://www.figma.com/proto/dZIUs3ChbAmvxzC6tPOw7h/Amanda-Migala%3A-UX-Portfolio?node-id=2-69&node-type=canvas&t=LdPZOsqRgLWtLuvr-1&scaling=contain&content-scaling=fixed&page-id=1%3A2)
 * [LinkedIn](www.linkedin.com/in/amigala)
 
