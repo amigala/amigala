@@ -11,8 +11,8 @@ I tend have an open minded when I try new things. I love trying to be outside es
 
 ## My Links
 * [UX Porfolio](https://www.figma.com/proto/dZIUs3ChbAmvxzC6tPOw7h/Amanda-Migala%3A-UX-Portfolio?node-id=2-69&node-type=canvas&t=LdPZOsqRgLWtLuvr-1&scaling=contain&content-scaling=fixed&page-id=1%3A2)
-* [LinkedIn](www.linkedin.com/in/amigala)
-* [Linktree](linktr.ee/SlyMandy)
+* [LinkedIn](https://www.linkedin.com/in/amigala/)
+* [Linktree](www.linktr.ee/SlyMandy)
 
 ### Possible Ideas 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amigala)](https://github.com/anuraghazra/github-readme-stats)
