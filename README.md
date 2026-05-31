@@ -10,7 +10,7 @@ I decided to persure design as my major not just because of the creative part of
 I tend have an open minded when I try new things. I love trying to be outside especially in the summer and go biking, hiking, or swimming.
 
 ## My Links
-* [Portfolio](https://amandamigala.myportfolio.com)
+* [Portfolio](https://www.figma.com/proto/dZIUs3ChbAmvxzC6tPOw7h?node-id=2-69&locale=en)
 * [LinkedIn](https://www.linkedin.com/in/amigala/)
 * [Linktree](https://linktr.ee/SlyMandy)
 
